@@ -1,4 +1,4 @@
-baseURL = 'https://delgoodie.com/'
+baseURL = 'https://delgoodie.github.io/delgoodie-website/'
 languageCode = 'en-us'
 title = 'delgoodie'
 theme = 'hugo-PaperMod'
