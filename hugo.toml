@@ -13,6 +13,11 @@ style = 'dracula'
 unsafe = true
 
 
+[caches]
+[caches.images]
+dir = ':cacheDir/images'
+
+
 [params]
 theme = "auto"
 palette = "eink"
