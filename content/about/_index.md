@@ -4,7 +4,7 @@ date = 2024-12-16T11:30:04+01:00
 draft = false
 +++
 
-👋🏻 Welcome to the demo page of Hugo's theme `not-much`!
+👋🏻 Welcome to the demo page of Change's theme `not-much`!
 
 This theme is designed to be responsive, clean, simple and minimal. There are no useless features or fancy shortcodes included.
 
